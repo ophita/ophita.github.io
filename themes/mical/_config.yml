@@ -15,28 +15,31 @@ Intro:
 
 Nav:
     Home_name: HOME
-    is_use_categories : true 
-    categories_name: 分类
-    is_use_archives : false
-    archives_name: 归档
+
     
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
-    icon:
-        github: https://github.com/miccall
-        500px: http://500px.com
+    # icon:
+    #     github: https://github.com/miccall
+    #     500px: http://500px.com
         
     pages:
         简历: 
             link: "/about/"
         团队 :
             link: "/group/"
-        图库 :
-            link: "/gallery/"
+        # 图库 :
+        #     link: "/gallery/"
         标签:
             link: "/tag/"
         #自定义标签名
         #   link：“路径”
+
+    is_use_categories : true 
+    categories_name: PROJECT
+    is_use_archives : true
+    archives_name: 归档
+
 
 MainFirst:
     name: Miccall Metro
