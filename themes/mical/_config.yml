@@ -10,12 +10,15 @@ head:
 
 Intro:
     name: Lunar
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
+    slogan: "Whatever is worth doing is worth doing well <br/> Joy resides in every step of growth"
     HeadButton: Lunar
 
 Nav:
     Home_name: HOME
-
+    is_use_categories : true 
+    categories_name: CATEGORY #math computer algorithem
+    is_use_archives : false
+    archives_name: 归档
     
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
@@ -24,21 +27,21 @@ Nav:
     #     500px: http://500px.com
         
     pages:
-        简历: 
-            link: "/about/"
-        团队 :
-            link: "/group/"
-        # 图库 :
-        #     link: "/gallery/"
+        POST: 
+            link: "/POST/"
         标签:
             link: "/tag/"
+        CV: 
+            link: "/CV/"
+        # 团队 :
+        #     link: "/group/"
+        # 图库 :
+        #     link: "/gallery/"
+
         #自定义标签名
         #   link：“路径”
 
-    is_use_categories : true 
-    categories_name: PROJECT
-    is_use_archives : true
-    archives_name: 归档
+
 
 
 MainFirst:
