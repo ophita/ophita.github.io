@@ -4,7 +4,7 @@
 
 # Head info
 head:
-    favicon: "/img/Lunar.jpg"
+    favicon: "/img/Lunar.png"
     keywords: lunar
     backgroundpic : "img/bg.jpg"
 
@@ -29,8 +29,8 @@ Nav:
     pages:
         POST: 
             link: "/POST/"
-        标签:
-            link: "/tag/"
+        TAG:
+            link: "/TAG/"
         CV: 
             link: "/CV/"
         # 团队 :
