@@ -4,7 +4,7 @@
 
 # Head info
 head:
-    favicon: "/img/Lunar.png"
+    favicon: "/img/lunar.png"
     keywords: lunar
     backgroundpic : "img/bg.jpg"
 
@@ -16,7 +16,7 @@ Intro:
 Nav:
     Home_name: HOME
     is_use_categories : true 
-    categories_name: CATEGORY #math computer algorithem
+    categories_name: PROJECT #math computer algorithem
     is_use_archives : false
     archives_name: 归档
     
@@ -27,12 +27,12 @@ Nav:
     #     500px: http://500px.com
         
     pages:
-        POST: 
-            link: "/POST/"
-        TAG:
-            link: "/TAG/"
-        CV: 
-            link: "/CV/"
+        BLOG: 
+            link: "/BLOG/"
+        ME:
+            link: "/ME/"
+        # CV: 
+        #     link: "/CV/"
         # 团队 :
         #     link: "/group/"
         # 图库 :
@@ -45,9 +45,9 @@ Nav:
 
 
 MainFirst:
-    name: Miccall Metro
+    name: Lunar Lee
     description: Technical  Artist  of  Games   
-    pic_url: /images/me.jpg
+    pic_url: /images/Lee.jpg
     goto_ulr: ""
 
 Gallery :
