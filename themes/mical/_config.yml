@@ -31,7 +31,7 @@ Nav:
         PROJECT: 
             link: "/PROJECT/"
         HOMEPAGE:
-            link: "https://ophita.github.io/links/"
+            link: "https://ophita.github.io/extends/homepage/homepage.html"
         # CV: 
         #     link: "/CV/"
         # CV: 
