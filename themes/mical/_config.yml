@@ -31,7 +31,7 @@ Nav:
         PROJECT: 
             link: "/PROJECT/"
         ME:
-            link: "/me/"
+            link: "../me/"
         # CV: 
         #     link: "/CV/"
         # CV: 
