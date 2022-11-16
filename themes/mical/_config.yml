@@ -16,7 +16,7 @@ Intro:
 Nav:
     Home_name: HOME
     is_use_categories : true 
-    categories_name: PROJECT #math computer algorithem
+    categories_name: BLOG #math computer algorithem
     is_use_archives : false
     archives_name: 归档
     
@@ -27,8 +27,8 @@ Nav:
     #     500px: http://500px.com
         
     pages:
-        BLOG: 
-            link: "/BLOG/"
+        PROJECT: 
+            link: "/PROJECT/"
         ME:
             link: "/ME/"
         # CV: 
@@ -46,7 +46,7 @@ Nav:
 
 MainFirst:
     name: Lunar Lee
-    description: Technical  Artist  of  Games   
+    description: " I'm looking for a PhD position ! <br/> EMAIL : 2200502105@cnu.edu.cn"
     pic_url: /images/Lee.jpg
     goto_ulr: ""
 
@@ -71,7 +71,7 @@ fonts: FZLTCXHJW, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB"
 #     duoshuo | disqus | disqus_click | changyan
 comment:
     use: disqus_click
-    shortname: http-miccall-tech 
+    shortname: http-lunar-tech 
     duoshuo_thread_key_type: path
     duoshuo_embed_js_url: "https://static.duoshuo.com/embed.js"
     changyan_appid:
@@ -79,7 +79,7 @@ comment:
     changyan_thread_key_type: path
     # 使用 valine 请先执行 npm install valine --save
     valine: # Valine Comment System https://github.com/xCss/Valine
-       on: true
+       on: false
        appId: 'your appId'
        appKey: 'your appkey'
        notify: true
