@@ -10,7 +10,7 @@ head:
 
 Intro:
     name: Lunar
-    slogan: "Great people are not born great, they grow <br/> Joy resides in every step"
+    slogan: "Great people are not born great, they grow."
     HeadButton: Lunar
 
 Nav:
@@ -23,13 +23,13 @@ Nav:
     
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
-    icon:
-        github: https://github.com/miccall
+    # icon:
+    #     github: https://github.com/miccall
     #     500px: http://500px.com
         
     pages:
-        PROJECT: 
-            link: "/PROJECT/"
+        # PROJECT: 
+        #     link: "/PROJECT/"
         HOMEPAGE:
             link: "https://ophita.github.io/extends/homepage/homepage.html"
         # CV: 
