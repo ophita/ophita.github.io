@@ -18,6 +18,10 @@ categories:
 
 
 
+```bash
+git add .
+```
+
 
 
 [这个地址](../hide/index.html)
