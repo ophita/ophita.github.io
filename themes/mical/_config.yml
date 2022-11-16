@@ -14,7 +14,7 @@ Intro:
     HeadButton: Lunar
 
 Nav:
-    Home_name: HOME
+    Home_name: BLOG
     is_use_categories : true 
     categories_name: CATEGORY #math computer algorithem
     is_use_archives : false
