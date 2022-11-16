@@ -16,9 +16,10 @@ Intro:
 Nav:
     Home_name: HOME
     is_use_categories : true 
-    categories_name: BLOG #math computer algorithem
+    categories_name: CATEGORY #math computer algorithem
     is_use_archives : false
     archives_name: 归档
+    
     
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
